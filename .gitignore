@@ -1,0 +1,21 @@
+# .gitignore
+
+# npm
+node_modules
+package-lock.json
+
+# python
+*.pyc
+
+# ipython
+.ipynb_checkpoints/
+
+# pycharm
+.idea/
+
+# ruby
+Gemfile.lock
+
+# Operating system files
+.DS_Store
+Thumbs.db
